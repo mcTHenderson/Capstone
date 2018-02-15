@@ -9,7 +9,9 @@ h1              {color: white}
 	color: white;
 	width: 100px;
 	height: 70px;
-	border-radius: 5px;
+	border-radius: 10px;
+	float: right;
+	margin: 10px;
 }
     /* Slideshow */
 * {box-sizing:border-box}
