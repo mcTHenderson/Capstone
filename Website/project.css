@@ -9,6 +9,7 @@ h1              {color: white}
 
 /* Slideshow container */
 .slideshow-container {
+  width: 80vw;
   max-width: 1000px;
   position: relative;
   margin: auto;
