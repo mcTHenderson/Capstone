@@ -4,6 +4,9 @@ body    {background-color: floralwhite; color: dimgray; font-family: 'Yanone Kaf
 #footer          {height: 30; text-align: center; line-height: 30px;}
 h1              {color: white}
 .title           {position: absolute; font-size: 50pt; width: 60vw;}
+#loginButton {
+	background-color: green;
+}
     /* Slideshow */
 * {box-sizing:border-box}
 
