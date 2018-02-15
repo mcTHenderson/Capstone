@@ -5,7 +5,11 @@ body    {background-color: floralwhite; color: dimgray; font-family: 'Yanone Kaf
 h1              {color: white}
 .title           {position: absolute; font-size: 50pt; width: 60vw;}
 #loginButton {
-	background-color: green;
+	background-color: red;
+	color: white;
+	width: 100px;
+	height: 70px;
+	border-radius: 5px;
 }
     /* Slideshow */
 * {box-sizing:border-box}
