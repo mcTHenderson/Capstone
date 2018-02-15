@@ -3,13 +3,12 @@ body    {background-color: floralwhite; color: dimgray; font-family: 'Yanone Kaf
 #header, #footer {color:floralwhite ; background-color: dimgray;}
 #footer          {height: 30; text-align: center; line-height: 30px;}
 h1              {color: white}
-.title           {position: absolute; font-size: 60pt; width: 150px;}
+.title           {position: absolute; font-size: 60pt; width: 50vw;}
     /* Slideshow */
 * {box-sizing:border-box}
 
 /* Slideshow container */
 .slideshow-container {
-  width: 80vw;
   max-width: 1000px;
   position: relative;
   margin: auto;
